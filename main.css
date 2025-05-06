@@ -17,6 +17,9 @@ ul {
 .navelement:hover {
   background-color: #111;
 }
+.navelement:last-child {
+  border-right: none;
+}
 .navactive {
   background-color: #04AA6D;
 }
