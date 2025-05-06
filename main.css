@@ -1,6 +1,9 @@
 body {
   background-color:#08080f;
 }
+h1,h2,h3,h4,h5,h6,p,label {
+  color: #f0ecd5;
+}
 ul {
   list-style-type: none;
 }
@@ -8,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #dddddd;
+  background-color: #2b2b42;
   position: fixed;
   top: 0;
   width: 100%;
@@ -19,7 +22,7 @@ ul {
   float:left;
 }
 .navelement:hover {
-  background-color: #111;
+  background-color: #08080f;
 }
 .navelement:last-child {
   border-right: none;
