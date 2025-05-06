@@ -10,3 +10,13 @@ ul {
   top: 0;
   width: 100%;
 }
+.navelement {
+  display: block;
+  padding: 8px;
+}
+.navelement:hover {
+  background-color: #111;
+}
+.navactive {
+  background-color: #04AA6D;
+}
