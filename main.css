@@ -13,6 +13,7 @@ ul {
 .navelement {
   display: block;
   padding: 8px;
+  float:left;
 }
 .navelement:hover {
   background-color: #111;
